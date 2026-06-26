@@ -2,9 +2,7 @@
 
 A real-time computer vision pipeline that **detects** objects in a video stream
 using **YOLOv8** and **tracks** them across frames with **Deep SORT**, assigning
-each object a persistent ID even through brief occlusion. Built for the
-CodeAlpha AI Internship, with several optional features added on top of the
-core brief to make the project demo- and resume-ready.
+each object a persistent ID even through brief occlusion. 
 
 ## ✅ How this satisfies the task brief
 
