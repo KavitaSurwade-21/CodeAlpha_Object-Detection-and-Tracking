@@ -53,17 +53,7 @@ CodeAlpha_ObjectDetectionTracking/
 ```
 
 ## 🚀 Setup
-
-```bash
-# 1. Clone your repo (after you push this to GitHub, per the internship instructions)
-git clone https://github.com/<your-username>/CodeAlpha_ObjectDetectionTracking.git
-cd CodeAlpha_ObjectDetectionTracking
-
-# 2. Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
+# 1. Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -158,9 +148,4 @@ pytest tests/
 > achieved stable multi-object tracking with persistent IDs across
 > occlusion.
 
-## 📄 License
 
-MIT — free to use and adapt for your own learning/portfolio.
-
----
-Built for the **CodeAlpha Artificial Intelligence Internship** — Task 4: Object Detection and Tracking.
