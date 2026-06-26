@@ -115,7 +115,7 @@ post on LinkedIn.
 pytest tests/
 ```
 
-## 🧠 How it works (for your video explanation / README "Approach" section)
+## 🧠 How it works 
 
 1. **Detection** — Each frame is passed to YOLOv8, which returns bounding
    boxes, confidence scores, and class IDs for everything it recognizes
@@ -141,11 +141,7 @@ pytest tests/
 - **Pandas** — analytics table display
 - **pytest** — testing
 
-## 📋 Suggested README/Resume one-liner
 
-> Built a real-time object detection & tracking system (YOLOv8 + Deep SORT)
-> with live analytics, a line-crossing counter, and a Streamlit dashboard;
-> achieved stable multi-object tracking with persistent IDs across
-> occlusion.
+
 
 
